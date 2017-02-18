@@ -1,4 +1,4 @@
-# Juego demostracion de las capacidades del acelerometro
+# Juego demostración de las capacidades del acelerometro
 
 ## Usage
 
