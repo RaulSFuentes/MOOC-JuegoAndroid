@@ -1,10 +1,9 @@
-# Juego demostración de las capacidades del acelerometro
 
-## Usage
 
-### Desktop
+Touchdown Zombie! Recorre todo el campo esquivando a los zombies que te salgan y ve sumando puntuación con cada carrera completada.
 
-In your browser, open the file:
+Ojo!!! Los zombies se multiplican y tus nervios hacen que te muevas más rápido.
 
-    /www/index.html
+Valor y al zombie XD!!!
+
 
